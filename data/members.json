@@ -1,0 +1,45 @@
+[
+  {
+    "id": "mem-host-dariono",
+    "name": "Dariono (Host / Pembuat Aplikasi)",
+    "email": "darionosippol@gmail.com",
+    "role": "host",
+    "token": "ORADO-DEV-MASTER-2026",
+    "description": "Akses Penuh Host & Developer Pembuat Aplikasi",
+    "status": "active",
+    "addedAt": "2026-10-30T00:00:00.000Z",
+    "addedBy": "SYSTEM_INIT"
+  },
+  {
+    "id": "mem-referee-1",
+    "name": "Wasit Utama Meja 01",
+    "role": "referee",
+    "token": "ORADO-LIVE-2026",
+    "description": "Persetujuan Host untuk Wasit Pertandingan & Kontrol Papan Skor",
+    "status": "active",
+    "addedAt": "2026-10-30T00:00:00.000Z",
+    "addedBy": "darionosippol@gmail.com",
+    "lastActive": "2026-10-30T06:01:59.949Z"
+  },
+  {
+    "id": "mem-bakom-vip",
+    "name": "Member Bakom Domino Club",
+    "email": "member@bakom.org",
+    "role": "member",
+    "token": "BAKOM-MEMBER-VIP",
+    "description": "Anggota Resmi Bakom Domino Club (Papan Skor & Rekap)",
+    "status": "active",
+    "addedAt": "2026-10-30T00:00:00.000Z",
+    "addedBy": "darionosippol@gmail.com"
+  },
+  {
+    "id": "mem-viewer-live",
+    "name": "Penonton / Live Score Publik",
+    "role": "viewer",
+    "token": "LIVE-SCORE-2026",
+    "description": "Akses Khusus Pantau Skor & Balak Real-Time",
+    "status": "active",
+    "addedAt": "2026-10-30T00:00:00.000Z",
+    "addedBy": "darionosippol@gmail.com"
+  }
+]

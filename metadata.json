@@ -1,0 +1,6 @@
+{
+  "name": "ORADO Score Calculator 101",
+  "description": "Aplikasi penghitung poin otomatis untuk pertandingan ORADO (Olahraga Domino Indonesia) The Law of Domino 101.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
